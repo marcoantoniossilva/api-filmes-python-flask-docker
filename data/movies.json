@@ -1,0 +1,68 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Cidade de Deus",
+            "genre": "Drama/Crime",
+            "cast": [
+                "Alexandre Rodrigues",
+                "Leandro Firmino",
+                "Phellipe Haagensen"
+            ],
+            "year": 2002,
+            "director": "Fernando Meirelles",
+            "synopsis": "Buscapé, um jovem da favela Cidade de Deus, sonha em ser fotógrafo enquanto presencia a ascensão do crime organizado no Rio de Janeiro nas décadas de 70 e 80."
+        },
+        {
+            "id": 2,
+            "title": "Tropa de Elite",
+            "genre": "Ação/Drama",
+            "cast": [
+                "Wagner Moura",
+                "Caio Junqueira",
+                "André Ramiro"
+            ],
+            "year": 2007,
+            "director": "José Padilha",
+            "synopsis": "O Capitão Nascimento, do BOPE, enfrenta os desafios de combater o tráfico de drogas no Rio de Janeiro enquanto busca um substituto para deixar a corporação."
+        },
+        {
+            "id": 3,
+            "title": "O Auto da Compadecida",
+            "genre": "Comédia/Aventura",
+            "cast": [
+                "Matheus Nachtergaele",
+                "Selton Mello",
+                "Fernanda Montenegro"
+            ],
+            "year": 2000,
+            "director": "Guel Arraes",
+            "synopsis": "João Grilo e Chicó, dois nordestinos pobres e astutos, se metem em confusões hilárias enquanto tentam sobreviver no sertão e enfrentam até mesmo o julgamento divino."
+        },
+        {
+            "id": 4,
+            "title": "Central do Brasil",
+            "genre": "Drama",
+            "cast": [
+                "Fernanda Montenegro",
+                "Vinícius de Oliveira"
+            ],
+            "year": 1998,
+            "director": "Walter Salles",
+            "synopsis": "Dora, uma ex-professora que escreve cartas para analfabetos, embarca em uma jornada com um garoto em busca do pai dele pelo interior do Brasil."
+        },
+        {
+            "id": 5,
+            "title": "Que Horas Ela Volta?",
+            "genre": "Drama",
+            "cast": [
+                "Regina Casé",
+                "Camila Márdila",
+                "Michel Joelsas"
+            ],
+            "year": 2015,
+            "director": "Anna Muylaert",
+            "synopsis": "Val, uma empregada doméstica que trabalha para uma família de classe alta em São Paulo, tem sua rotina abalada com a chegada da filha, que questiona a dinâmica social e os limites do espaço."
+        }
+    ]
+}

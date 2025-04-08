@@ -1,0 +1,74 @@
+{
+    "comments": [
+        {
+            "id": 1,
+            "movie_id": 1,
+            "date": "2024-11-02",
+            "user_name": "Lucas Andrade",
+            "comment": "Filme sensacional! Roteiro bem amarrado e atuações marcantes."
+        },
+        {
+            "id": 2,
+            "movie_id": 2,
+            "date": "2024-10-15",
+            "user_name": "Ana Beatriz",
+            "comment": "Gostei bastante, principalmente das cenas de ação. Vale a pena assistir!"
+        },
+        {
+            "id": 3,
+            "movie_id": 3,
+            "date": "2025-01-07",
+            "user_name": "Rafael Costa",
+            "comment": "Uma comédia leve e divertida. Dei boas risadas!"
+        },
+        {
+            "id": 4,
+            "movie_id": 4,
+            "date": "2025-03-22",
+            "user_name": "Juliana Lima",
+            "comment": "História emocionante e atuações incríveis. Um dos melhores dramas que já vi."
+        },
+        {
+            "id": 5,
+            "movie_id": 5,
+            "date": "2024-12-03",
+            "user_name": "Eduardo Martins",
+            "comment": "O filme aborda questões sociais importantes com muita sensibilidade."
+        },
+        {
+            "id": 6,
+            "movie_id": 1,
+            "date": "2024-08-30",
+            "user_name": "Camila Souza",
+            "comment": "Muito bom! A fotografia é linda e a trilha sonora combina perfeitamente."
+        },
+        {
+            "id": 7,
+            "movie_id": 2,
+            "date": "2025-02-10",
+            "user_name": "Bruno Oliveira",
+            "comment": "O enredo prende do início ao fim. Super recomendo!"
+        },
+        {
+            "id": 8,
+            "movie_id": 3,
+            "date": "2024-09-12",
+            "user_name": "Mariana Rocha",
+            "comment": "Não esperava muito, mas fui surpreendida positivamente."
+        },
+        {
+            "id": 9,
+            "movie_id": 4,
+            "date": "2025-04-01",
+            "user_name": "Felipe Nunes",
+            "comment": "Um clássico moderno. A direção é impecável."
+        },
+        {
+            "id": 10,
+            "movie_id": 5,
+            "date": "2025-03-18",
+            "user_name": "Tatiane Ferreira",
+            "comment": "A crítica social presente no filme me fez refletir bastante."
+        }
+    ]
+}

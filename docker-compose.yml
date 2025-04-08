@@ -1,0 +1,40 @@
+version: '3.1'
+
+services:
+  movies:
+    build: .
+    image: movies
+    container_name: movies
+    hostname: movies
+    restart: always
+    volumes:
+      - ./services/movies:/service
+      - ./data/movies.json:/data/movies.json
+    command: python3 /service/service.py
+    ports:
+      - 5001:5000
+  comments:
+    build: .
+    image: comments
+    container_name: comments
+    hostname: comments
+    restart: always
+    volumes:
+      - ./services/comments:/service
+      - ./data/comments.json:/data/comments.json
+    command: python3 /service/service.py
+    ports:
+      - 5002:5000
+
+  recommendations:
+    build: .
+    image: recommendations
+    container_name: recommendations
+    hostname: recommendations
+    restart: always
+    volumes:
+      - ./services/recommendations:/service
+      - ./data/recommendations.json:/data/recommendations.json
+    command: python3 /service/service.py
+    ports:
+      - 5003:5000
