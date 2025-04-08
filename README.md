@@ -50,7 +50,7 @@ Além da API, há também um **cliente (`client.py`)** que consome os três micr
 
 1. Clone este repositório e acesse a pasta do projeto.
     ```bash
-    git clone https://github.com/seu-usuario/api-filmes-python-flask-docker.git
+    git clone https://github.com/marcoantoniossilva/api-filmes-python-flask-docker.git
     cd api-filmes-python-flask-docker
     ```
 
