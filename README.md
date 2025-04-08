@@ -139,7 +139,7 @@ Quando a variável estiver com esse valor, o microserviço será tratado como in
 📺 Demonstração em Vídeo
 
 Foi produzido um vídeo demonstrando o uso do sistema, incluindo o consumo dos microserviços e a simulação da parada lógica de cada um deles.
-A demonstração está disponível no YouTube e pode ser acessada [clicando aqui]().
+A demonstração está disponível no YouTube e pode ser acessada [clicando aqui](https://youtu.be/e5hAWgCe5kc).
 
 ---
 
